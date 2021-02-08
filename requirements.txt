@@ -22,7 +22,7 @@ google-auth==1.6.3
 googleapis-common-protos==1.6.0
 grpcio==1.24.1
 grpcio-tools==1.24.1
-httplib2==0.18.0
+httplib2==0.19.0
 idna==2.6
 keyring==17.1.1
 keyrings.alt==3.1.1
