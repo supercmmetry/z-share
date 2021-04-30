@@ -61,7 +61,7 @@ PyYAML==3.13
 reportlab==3.5.18
 requests==2.21.0
 requests-unixsocket==0.1.5
-rsa==4.0
+rsa==4.7
 screen-resolution-extra==0.0.0
 SecretStorage==2.3.1
 shiboken2==5.13.1
